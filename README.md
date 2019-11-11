@@ -45,12 +45,12 @@ To successfully complete this phase of the project, you must fulfill the
 following requirements.
 
 * Create a **design document** (PDF) in the `design-docs` directory describing your site. You will need to convey the following information:
-  * Name of site/company
-  * Description of your design concept/approach
-  * What you hope to accomplish with your design concept/approach
-  * Other sites you looked at for inspiration (include links)
-  * Other sites for comparable businesses that justify your concept/approach
-  (include links)
+    * Name of site/company
+    * Description of your design concept/approach
+    * What you hope to accomplish with your design concept/approach
+    * Other sites you looked at for inspiration (include links)
+    * Other sites for comparable businesses that justify your concept/approach
+    (include links)
 
 * Create an **Information Architecture** diagram (PDF) that shows the organization, hierarchy, and relation between all pages on your site. Place your IA Diagram in the `design-docs` directory.
   * Use any application you prefer to create your IA Diagram
