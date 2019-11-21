@@ -3,16 +3,30 @@ a:hover {
     background-color: rgb(0, 217, 255);
     color: aliceblue;
     transition: background-color 0.2s, border .02s, color .02s; 
-  }
+}
 
-
- a:visited {
-    padding: 8px 0;
-    transition: border-bottom 0.2s;
-    color: purple;
- }
-
- .img-fluid:hover {
+ .card-img-top:hover {
     transform: scale(1.03);
     transition: transform 0.5s;
+ }
+
+footer p{
+
+  text-align: left;
+ }
+
+ .footer-flex {
+
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+ }
+
+ .footer-item-flex {
+
+    flex: 0 1 auto;
+
+
  }
